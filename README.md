@@ -30,8 +30,10 @@ Sou um desenvolvedor apaixonado por [javascript (ainda não aprendia programar),
 - **Desenvolvimento de Jogos**:  
   - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
   - ![Blueprints](https://img.shields.io/badge/Blueprints-0061F2?style=for-the-badge&logo=unrealengine&logoColor=white)
+  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  
  - ## 📫 Como me contactar
 
 - **E-mail**: [dedeee.dev@gmail.com]
 - **Twitter**: [@Dedde076](https://x.com/@Dedde076)
+- **Tik Tok**: [@dede07776](https://www.tiktok.com/@dede07776)

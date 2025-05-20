@@ -32,4 +32,3 @@ Sou um desenvolvedor apaixonado por [javascript (ainda não aprendia programar),
 
 - **E-mail**: [dedeee.dev@gmail.com]
 - **Twitter**: [@Dedde076](https://x.com/@Dedde076)
-- **Tik Tok**: [@dede07776](https://www.tiktok.com/@dede07776)

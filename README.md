@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por [javascript (ainda não aprendia programar),
 
 - **Nome**: [Dede]
 - **Localização**: [Portugal]
-- **Linguagens que estou a aprender**: Python, JavaScript, HTML/C++ e blueprint.
+- **Linguagens que estou a aprender**: JavaScript, HTML/C++ e blueprint.
 - **Minhas paixões**: [Desenvolvimento Web, front-end e back-end.]
 - **Objetivo**: Contribuir para projetos e melhorar as minhas skills todos os dias! 🌱
 

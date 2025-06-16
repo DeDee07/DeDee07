@@ -43,4 +43,4 @@ Sou um desenvolvedor apaixonado por [javascript (ainda não aprendia programar),
 ## 📩 Como me contactar
 
 - **Meu E-mail**:
-    - ([dedeee.dev@gmail.com])
+    - (dedeee.dev@gmail.com)

@@ -1,12 +1,4 @@
-# 👋 Olá, sou o [Dede07]! 
-
-Bem-vindo ao meu repositório de perfil do GitHub! 🎉
-
-Sou um desenvolvedor apaixonado por [javascript (ainda não aprendia programar), Python, C++, HTML e blueprint]. Este repositório é um lugar onde partilho as minhas aventuras no mundo da programação e tecnologia. 🚀
-
----
-
-## 💻 Sobre Mim
+# 💻 Sobre Mim
 
 - **Nome**: [Dede]
 - **Localização**: [Portugal]
@@ -30,17 +22,11 @@ Sou um desenvolvedor apaixonado por [javascript (ainda não aprendia programar),
  
 ---
 
-## 📱 Minhas Redes Sociais
+## 📱 Como me contactar!
 
 - **Plataformas digitais**:
     - Tiktok: https://www.tiktok.com/@dede07776
     - Twitter(x): https://x.com/Dedde076
     - Youtube: https://www.youtube.com/@dede_07
     - Twitch: https://www.twitch.tv/dede076
-
----
-
-## 📩 Como me contactar
-
-- **Meu E-mail**:
     - [dedeee.dev@gmail.com]

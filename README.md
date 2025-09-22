@@ -1,6 +1,9 @@
 ## Quem é o Dede?
 
-Olá, eu sou o Dede07, nasci a 23/07 em Leiria/Portugal. Pretendo ir para mestrado em Desing e Multimédia na faculdade de Coimbra
+  - Eu sou o Dede07;
+  - Nasci a 23/07 em Leiria/Portugal;
+  - Os meus hobbies são: Jogar futebol, Falar com pessoas de mais idade e Programar;
+  - Pretendo ir para mestrado em Desing e Multimédia na faculdade de Coimbra.
 
 ---
 
